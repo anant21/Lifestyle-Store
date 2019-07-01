@@ -32,8 +32,7 @@ _____________________________________________Folder Structure___________________
 	├──  index.php
 	├──  lifestylestore.sql (Database of the project	)
 	├──  login.php
-	├──  login_script.php
-	├──  logout_script.php
+	├──  login_submit.php
 	├──  products.php
 	├──  settings.php
 	├──  settings-script.php
